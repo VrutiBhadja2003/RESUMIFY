@@ -1,4 +1,4 @@
-# SGP-1-Resume_Builder_21CS056_21CS062_21CS068
+# SGP-2-Resume_Builder
 
 <!-- ## Description -->
 
@@ -30,15 +30,13 @@ This online resume builder assists job searchers in building a professional resu
 <h3><b>SGP Project</b></h3>
 
 <!-- [Resume Builder](https://github.com/Joyshah62/SGP_Project_21CS056_21CS062_21CS068) -->
-_**Created by :-**_ <br>[Het Soni ( 21CS068 )](https://github.com/hetsonii)<br>[Rhythm Rathod ( 21CS056 )](https://github.com/Rhythmr29)<br>[Joy Shah ( 21CS062 )](https://github.com/Joyshah62)
-
-<hr> 
-
-## Watch Demo Video :-
-
-(Project Demo Link)
-"[Resume Builder](https://drive.google.com/file/d/1RJTRzXu8fkEIjWIQC1qa4JiIXhZVyYWD/view?usp=sharing)"
-
+_**Created by :-**_ 
+<br>
+[Bhakti Pathak ( D22CS084 )](https://github.com/bhaktipathak7)
+<br>
+[Vruti Bhadja ( D22CS086 )](https://github.com/)
+<br>
+[Aanchal Desai ( D22CS090 )](https://github.com/)
 
 ---
 
