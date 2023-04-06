@@ -29,7 +29,7 @@ nav li a:hover {
 }
 
 .gradient {
-  background-image: url("../images/Mainbg2.png");
+  background-image: url("..\images\bg1.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
